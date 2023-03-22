@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "hanson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/blendle/Hanson",
+      "state" : {
+        "revision" : "1fefd4bfba7e879da2ad7233e156458cf2779ef0",
+        "version" : "2.1.0"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage",
+      "state" : {
+        "revision" : "4178d12a44691182c2eb79c70281b14cb73f4cbf",
+        "version" : "5.14.3"
+      }
+    }
+  ],
+  "version" : 2
+}
